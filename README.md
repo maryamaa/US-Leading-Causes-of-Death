@@ -14,5 +14,10 @@ The project uses correct indices and measurements in health policy to understand
 It's worth noting that the Covid-19 pandemic took the world by surprise in 2020, despite warnings from public health experts and risk modelers. The study also takes into account the CDC's claim that underlying conditions have contributed to the deaths caused by Covid-19.
 The project is significant because it explores how the top death causes in different states in the U.S. from 2014 to 2019 could have implications for the mortality rate of Covid-19 in 2020. Overall, the study provides valuable insights into the relationship between Covid-19 and the leading causes of death in the United States, and highlights the importance of using data-driven insights to make informed decisions in health policy.
 
-## Tableau Maps: https://public.tableau.com/views/USDeathRatios2014-2020/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
-## Tableau Charts: https://public.tableau.com/views/3TopUSDeathCauses/3TopUSDeathCauses?:language=en-US&:display_count=n&:origin=viz_share_link
+
+## Tableau Maps: 
+[Maps](https://public.tableau.com/views/USDeathRatios2014-2020/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Tableau Charts: 
+[Charts](https://public.tableau.com/views/3TopUSDeathCauses/3TopUSDeathCauses?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
