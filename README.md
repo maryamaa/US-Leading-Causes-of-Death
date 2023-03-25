@@ -1,6 +1,9 @@
 # US-LeadingCausesOfDeath
 ## An Investigation into the Correlation between Covid19-Related Deaths in 2020 and the Leading Causes of Death in the United States from 2015-2019
 Have you ever wondered how the Covid19 pandemic impacted the leading causes of death in the United States? This question inspired my latest research project, where I investigated the correlation between Covid19-related deaths in 2020 and the leading causes of death in the country from 2015-2019. Through careful analysis of available data, I uncovered some interesting findings that shed light on the relationship between the pandemic and public health in the United States. My hope is that this study can inform future public health policies and initiatives that aim to prevent and address the leading causes of death in the country.
+
+![US-LeadingCausesofDeath](https://user-images.githubusercontent.com/45305744/227668278-b1c15bd9-621a-4033-8b2e-e09ad970f9b2.png)
+
 ### Project Motivation
 As someone who is passionate about public health, I have been closely following the Covid19 pandemic and its impact on our lives. One area that particularly caught my attention is how the pandemic has affected the leading causes of death in the United States. This motivated me to conduct a study exploring the correlation between Covid19-related deaths in 2020 and the leading causes of death in the country from 2015-2019. By delving deeper into this topic, I aimed to contribute to our understanding of how the pandemic has impacted public health in the United States. Ultimately, I hope that my research can inform future policies and initiatives aimed at improving public health and preventing unnecessary deaths in the country.
 ### About Data
